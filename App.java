@@ -6,7 +6,7 @@ class App {
     boolean towingPackage = true;
     int odometer = 29850;
     double price = 2000;
-    String qualityRating = "A";
+    String qualityRating = "Quality Rating: A";
 
     System.out.println(vin);
     System.out.println(makeModel);

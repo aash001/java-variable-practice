@@ -5,7 +5,7 @@ class App {
     String color = "Blue";
     boolean towingPackage = true;
     int odometer = 29850;
-    double price = 2000;
+    double price = 2500;
     String qualityRating = "Quality Rating: A";
 
     System.out.println(vin);
